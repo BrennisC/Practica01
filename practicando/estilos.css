@@ -1,0 +1,19 @@
+body{
+    background: rgb(206, 215, 222);
+}
+section{
+    border: 5px solid #000;
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.class{
+    background: #09f;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 200px;
+
+}

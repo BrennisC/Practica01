@@ -1,0 +1,43 @@
+
+body{
+
+    background: darkmagenta;
+    display: flex;
+    align-items: center
+}
+.content{
+    display: flex;
+    width: 800px;
+    height: 100px;
+    margin: auto;
+}
+.title{
+    display: flex;
+    margin: auto;
+    text-shadow:  0 0 3px royalblue; 
+    width: 600px;
+    height: 200px; 
+}
+.title:hover{
+    color: chocolate;
+}
+.inicio{
+    width: 50px;
+    color: black;
+    display: flex;
+    margin: auto;
+}
+.Nosotros{
+    width: 50px;
+    display: flex;
+    margin: auto;
+
+}
+.Productos{
+    width: 50px;
+    display: flex;
+}
+.Contacto{
+    width: 50px;
+    display: flex;
+}
