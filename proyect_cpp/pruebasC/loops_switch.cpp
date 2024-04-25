@@ -6,7 +6,7 @@ int main (){
         cout<<"Ingrese un numero positivo: ";
         cin>>numero;
         if(numero<=0){
-            cout<<"Ingrese un numero positivo";
+            cout<<"\nIngrese un numero positivo";
         }
     }while(numero<=0);
         cout<<"Has ingreso un numero valido";
